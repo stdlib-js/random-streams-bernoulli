@@ -543,6 +543,23 @@ $ random-bernoulli 0.2 -n 10 --seed 1234
 
 <!-- /.cli -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/random/base/bernoulli`][@stdlib/random/base/bernoulli]: Bernoulli distributed pseudorandom numbers.
+-   [`@stdlib/random/iter/bernoulli`][@stdlib/random/iter/bernoulli]: create an iterator for generating pseudorandom numbers drawn from a Bernoulli distribution.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -607,6 +624,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [bernoulli]: https://en.wikipedia.org/wiki/Bernoulli_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/base/bernoulli]: https://github.com/stdlib-js/random-base-bernoulli
+
+[@stdlib/random/iter/bernoulli]: https://github.com/stdlib-js/random-iter-bernoulli
+
+<!-- </related-links> -->
 
 </section>
 
